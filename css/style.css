@@ -9,3 +9,8 @@ height: 100vh;
 
 }
 
+#navbar{
+    position: fixed;
+    padding-left: 75%;
+}
+
